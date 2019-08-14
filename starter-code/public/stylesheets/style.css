@@ -5,4 +5,10 @@ body {
 a {
   color: #00B7FF; }
 
+nav a {
+  text-decoration: none; }
+
+nav ul {
+  list-style: none; }
+
 /*# sourceMappingURL=style.css.map */
